@@ -1,0 +1,4 @@
+from structures.priorityqueue.binary_heap import BinaryHeap
+from structures.priorityqueue.binomial_heap import BinomialHeap
+from structures.priorityqueue.fibonacci_heap import FibonacciHeap
+from structures.priorityqueue.priority_queue import PriorityQueue
